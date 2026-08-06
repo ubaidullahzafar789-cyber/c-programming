@@ -122,7 +122,9 @@ Every commit represents meaningful progress such as:
 # Connect With Me
 
 - GitHub: **github.com/ubaidullahzafar789-cyber**
-- LinkedIn: *Add your LinkedIn profile here*
+- LinkedIn: www.linkedin.com/in/
+ubaid-ullah-925094424
+
 
 ---
 
