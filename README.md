@@ -1,92 +1,71 @@
+<div align="center">
+
 # C Programming
 
-> A structured repository showcasing my C programming journey through practical examples, coding exercises, and problem-solving solutions.
+### A comprehensive collection of C programming concepts, practical examples, coding exercises, and problem-solving solutions.
+
+<img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/Compiler-GCC-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📚 About
+# About
 
-This repository contains my C programming practice, organized by topic. It documents my learning journey from the fundamentals to advanced concepts through hands-on coding.
+This repository documents my journey of learning **C Programming** from the ground up. It contains well-organized examples, coding exercises, and mini-projects covering both fundamental and advanced programming concepts.
 
----
-
-## 🎯 Goals
-
-- Learn C programming from beginner to advanced
-- Improve problem-solving skills
-- Build a strong programming foundation
-- Practice writing clean and readable code
-- Track my daily coding progress
+The goal is to build a strong foundation in programming, improve logical thinking, and develop problem-solving skills through consistent practice.
 
 ---
 
-## 📂 Repository Structure
+# Repository Structure
 
 ```text
-c-programming/
+c-programming
 │
 ├── README.md
 │
-├── 01-Basics/
-│   ├── hello_world.c
-│   ├── variables.c
-│   ├── data_types.c
-│   ├── input_output.c
-│   ├── constants.c
-│   └── type_casting.c
-│
-├── 02-Operators/
-├── 03-Decision-Making/
-├── 04-Loops/
-├── 05-Functions/
-├── 06-Arrays/
-├── 07-Strings/
-├── 08-Pointers/
-├── 09-Structures/
-├── 10-File-Handling/
-└── 11-Mini-Projects/
+├── 01-Basics
+├── 02-Operators
+├── 03-Decision-Making
+├── 04-Loops
+├── 05-Functions
+├── 06-Arrays
+├── 07-Strings
+├── 08-Pointers
+├── 09-Structures
+├── 10-File-Handling
+├── 11-Dynamic-Memory
+└── 12-Mini-Projects
 ```
 
 ---
 
-## 📖 Topics Covered
-
-- ✅ Basics
-- ⏳ Operators
-- ⏳ Decision Making
-- ⏳ Loops
-- ⏳ Functions
-- ⏳ Arrays
-- ⏳ Strings
-- ⏳ Pointers
-- ⏳ Structures
-- ⏳ File Handling
-- ⏳ Dynamic Memory Allocation
-- ⏳ Mini Projects
-
----
-
-## 🚀 Progress
+# Learning Roadmap
 
 | Topic | Status |
-|--------|--------|
-| Basics | ✅ Completed |
-| Operators | ⏳ In Progress |
-| Decision Making | ⏳ Pending |
-| Loops | ⏳ Pending |
-| Functions | ⏳ Pending |
-| Arrays | ⏳ Pending |
-| Strings | ⏳ Pending |
-| Pointers | ⏳ Pending |
-| Structures | ⏳ Pending |
-| File Handling | ⏳ Pending |
-| Mini Projects | ⏳ Pending |
+|------|:------:|
+| Basics | ✅ |
+| Operators | ⏳ |
+| Decision Making | ⏳ |
+| Loops | ⏳ |
+| Functions | ⏳ |
+| Arrays | ⏳ |
+| Strings | ⏳ |
+| Pointers | ⏳ |
+| Structures | ⏳ |
+| File Handling | ⏳ |
+| Dynamic Memory Allocation | ⏳ |
+| Mini Projects | ⏳ |
 
 ---
 
-## 💻 Tools
+# Technologies
 
-- C
+- C Programming Language
 - GCC Compiler
 - Visual Studio Code
 - Git
@@ -94,28 +73,63 @@ c-programming/
 
 ---
 
-## 🌟 Learning Approach
+# Objectives
 
-- Write programs daily
-- Organize code by topic
-- Use meaningful commit messages
-- Continuously improve code quality
-- Track progress through GitHub contributions
-
----
-
-## 🤝 Contributions
-
-This repository is part of my personal learning journey. Suggestions and improvements are always welcome.
+- Learn C Programming from Beginner to Advanced
+- Strengthen Programming Fundamentals
+- Improve Problem-Solving Skills
+- Practice Clean and Readable Code
+- Build Consistency Through Daily Coding
+- Prepare for Data Structures & Algorithms
 
 ---
 
-## 👨‍💻 Author
+# Progress
 
-**Ubaid Ullah**
+I regularly update this repository as I learn new concepts and solve programming exercises.
 
-GitHub: **@ubaidullahzafar789-cyber**
+Each topic contains:
+
+- Concept Examples
+- Practice Programs
+- Coding Exercises
+- Problem-Solving Solutions
 
 ---
 
-⭐ If you find this repository useful, consider giving it a star.
+# Commit Strategy
+
+Every commit represents meaningful progress such as:
+
+- New Concepts
+- Practice Problems
+- Code Improvements
+- Bug Fixes
+- Repository Enhancements
+
+---
+
+# Future Plans
+
+- Complete all C programming fundamentals
+- Add mini projects
+- Solve programming challenges
+- Learn Data Structures in C
+- Build advanced console applications
+
+---
+
+# Connect With Me
+
+- GitHub: **github.com/ubaidullahzafar789-cyber**
+- LinkedIn: *Add your LinkedIn profile here*
+
+---
+
+<div align="center">
+
+### ⭐ If you find this repository helpful, consider giving it a Star.
+
+**Happy Coding! 🚀**
+
+</div>
