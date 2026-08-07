@@ -49,7 +49,7 @@ c-programming
 | Topic | Status |
 |------|:------:|
 | Basics | ✅ |
-| Operators | ⏳ |
+| Operators | ✅ |
 | Decision Making | ⏳ |
 | Loops | ⏳ |
 | Functions | ⏳ |
