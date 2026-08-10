@@ -50,7 +50,7 @@ c-programming
 |------|:------:|
 | Basics | ✅ |
 | Operators | ✅ |
-| Decision Making | ⏳ |
+| Decision Making | ✅ |
 | Loops | ⏳ |
 | Functions | ⏳ |
 | Arrays | ⏳ |
