@@ -51,7 +51,7 @@ c-programming
 | Basics | ✅ |
 | Operators | ✅ |
 | Decision Making | ✅ |
-| Loops | ⏳ |
+| Loops | ✅ |
 | Functions | ⏳ |
 | Arrays | ⏳ |
 | Strings | ⏳ |
