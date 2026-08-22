@@ -52,7 +52,7 @@ c-programming
 | Operators | ✅ |
 | Decision Making | ✅ |
 | Loops | ✅ |
-| Functions | ⏳ |
+| Functions |  ✅ |
 | Arrays | ⏳ |
 | Strings | ⏳ |
 | Pointers | ⏳ |
