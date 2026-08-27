@@ -53,7 +53,7 @@ c-programming
 | Decision Making | ✅ |
 | Loops | ✅ |
 | Functions |  ✅ |
-| Arrays | ⏳ |
+| Arrays | ✅ |
 | Strings | ⏳ |
 | Pointers | ⏳ |
 | Structures | ⏳ |
