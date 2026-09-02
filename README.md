@@ -54,7 +54,7 @@ c-programming
 | Loops | ✅ |
 | Functions |  ✅ |
 | Arrays | ✅ |
-| Strings | ⏳ |
+| Strings | ✅ |
 | Pointers | ⏳ |
 | Structures | ⏳ |
 | File Handling | ⏳ |
