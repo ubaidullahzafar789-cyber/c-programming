@@ -55,11 +55,11 @@ c-programming
 | Functions |  ✅ |
 | Arrays | ✅ |
 | Strings | ✅ |
-| Pointers | ⏳ |
-| Structures | ⏳ |
-| File Handling | ⏳ |
-| Dynamic Memory Allocation | ⏳ |
-| Mini Projects | ⏳ |
+| Pointers | ✅ |
+| Structures | ✅ |
+| File Handling | ✅ |
+| Dynamic Memory Allocation | ✅ |
+| Mini Projects |  ✅ |
 
 ---
 
